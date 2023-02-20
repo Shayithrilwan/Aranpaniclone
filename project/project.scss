@@ -1,0 +1,213 @@
+
+.body{
+    font-family: SFProDisplay, SFProDisplayLight, SFProDisplayBold, "Roboto", sans-serif !important;
+    
+   
+ }
+
+
+
+.modal__project{
+    width: 495px;
+    border-radius: 10px;
+}
+.temple__name__block{
+    padding-left: 10px;
+    
+}
+.temple__name{
+    margin-top: 8px;
+    width: 455px;
+height: 40px;
+
+}
+.கோவில்__பெயர்__block{
+    padding-top: 5px;
+    padding-left: 10px;
+    
+}
+.கோவில்__பெயர்{
+    margin-top: 8px;
+    width: 455px;
+height: 40px;
+
+}
+.Temple__Incharge__block{
+    padding-top: 5px;
+    padding-left: 10px;
+    
+}
+.Temple__Incharge__Name{
+    margin-top: 8px;
+    width: 455px;
+height: 40px;
+
+}
+.கோவில்__பொறுப்பாளர்__பெயர்__block{
+    padding-top: 5px;
+    padding-left: 10px;
+    
+}
+.கோவில்__பொறுப்பாளர்__பெயர்{
+    margin-top: 8px;
+    width: 455px;
+height: 40px;
+
+}
+
+.Phone__Number__block{
+    padding-top: 5px;
+    padding-left: 10px;
+    
+}
+.Phone__Number{
+    margin-top: 8px;
+    width: 455px;
+height: 40px;
+
+}
+.Location__block{
+    padding-top: 5px;
+    padding-left: 10px;
+    
+}
+.Location{
+    margin-top: 8px;
+    width: 455px;
+height: 40px;
+
+}
+.இடம்__block{
+    padding-top: 5px;
+    padding-left: 10px;
+    
+}
+.இடம்{
+    margin-top: 8px;
+    width: 455px;
+height: 40px;
+}
+.error{
+    color: #E55252;
+    padding-left: 10px;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: var(--stroke);
+text-align: left;
+font: normal normal medium 15px/18px SF Pro Display;
+letter-spacing: 0px;
+color: #D6D8E5; 
+padding-left: 10px;
+
+}
+
+.model__button{
+    margin-top: 35px;
+    margin-left: 10px;
+    width: 455px;
+height: 40px;
+/* UI Properties */
+border: none;
+background: #396AFF 0% 0% no-repeat padding-box;
+color: #FFFFFF;
+border-color: none;
+border-radius: 6px;
+
+}
+.ant-tabs-nav-list{
+    --w-s: #7F91B0;
+    --w-p: #343C6A;
+    margin-left: 30px;
+    margin-top: -15px;
+    
+   
+}
+.project__suggestion{
+    padding-left: 1000px;
+    position: relative;
+    top: -40px;
+   
+}
+.project__Filters{
+    display: flex;
+}
+.dashboard__content__heading{
+    height: 0px;
+   
+}
+.project__count{
+    color: var(--w-p);
+text-align: left;
+letter-spacing: 0px;
+color: #343C6A;
+padding-left: 15px;
+padding-top: 10px;
+font-size: 18px;
+}
+.project__count__para{
+    color: var(--w-p);
+text-align: left;
+letter-spacing: 0px;
+color: #343C6A;
+font-size: 14px;
+padding-top: 13px;
+padding-left: 5px;
+}
+.project__count__para__sort{
+    padding-left: 500px;
+}
+.ant-space-item{
+    margin-left: 60px;
+    margin-top: -10px;
+    height: 20px;
+}
+ .ant-select-show-arrow{
+    margin-left: 50px;
+    position: relative;
+    top: -18px;
+    left: 40px;
+    height: 20px;
+    border-radius: 10px;
+}
+.project__count__para__sort{
+    position: relative;
+    left: 70px;
+}
+.ant-table-cell{
+    color: black;
+}
+.ant-input-group-wrapper {
+position: relative;
+top: 20px;
+left: 200px;
+    padding-left: 500px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.ant-table-container{
+    margin-left: 40px;
+   margin-top: 30px;
+   
+}
+.ant-table-tbody{
+    border-color: rgb(128, 128, 128);
+}
+.ant-table-cell a {
+ color: black;
+}
+.dashboard{
+    bottom: 0px;
+    left: 0px;
+    top: 0px;
+}
+.dashboard__content__heading{
+    font-size: 28px;
+    font-weight: 800;
+}
+.ant-modal-content{
+border-radius: 8cm;
+    
+}
+.ant-modal-title{
+    font-size: 16px;
+}
